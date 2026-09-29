@@ -1,8 +1,8 @@
 # Python & Data Science - UPJV Amiens
 
-**Étudiante :** Sarah Merzougui
-**Formation :** L3 Économie
-**Année :** 2026-2027
+**Étudiante :** Sarah Merzougui  
+**Formation :** L3 Économie  
+**Année :** 2026-2027  
 
 ## Description
 
